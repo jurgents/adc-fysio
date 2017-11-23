@@ -4,8 +4,6 @@ import lombok.Getter;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 
-import java.net.URL;
-
 @Getter
 @RequiredArgsConstructor(staticName = "objectFactory")
 public class LocatieMetPraktijk {
