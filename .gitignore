@@ -4,6 +4,14 @@
 # Log file
 *.log
 
+Intelij project files
+*.idea/
+*.iml
+
+Spring Initialize
+mvnw
+mvnw.cmd
+
 # BlueJ files
 *.ctxt
 
